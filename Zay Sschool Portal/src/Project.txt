@@ -1,0 +1,21 @@
+---------Project 11-Oct-2024: -------------
+
+Create a student portal for Zay school. The portal opens 
+with a welcome message. Then the user will have to select
+between 1. teacher and 2. student. 
+. The teacher option has 3 options:
+. register student (student id, name, course, class, exam_score, grade)
+. check all student data
+. update student data
+. delete student data
+ The teacher has to log in with a (name and password) to 
+ perform the above actions. Teacher will input student 
+ data in the MYSQL data using JBDCc(not Hibernate this time.)
+
+ The student option has 1 option:
+ to check student result based on student id.
+ Student has to enter student id to check result. 
+
+ ::::Stack:::: Core Java/ JDBC/ MYSQL::::::
+
+ Finally, upload to Github via git CLI. 
